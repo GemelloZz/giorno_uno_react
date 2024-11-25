@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  background-color: rebeccapurple;
+  font-size: 10rem;
+}
+
+.resize {
+  width: 1000px;
+}
